@@ -10,7 +10,7 @@ createRoot(document.getElementById("root")!).render(
       className={css({
         background: "#e0e0e0",
         height: "100vh",
-        width: "100vw",
+        width: "100%",
       })}
     >
       <App />
