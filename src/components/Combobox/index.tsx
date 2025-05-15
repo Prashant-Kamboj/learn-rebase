@@ -1,3 +1,7 @@
-export const Checkbox = () => {
-  return <input type="checkbox" />;
+export const Combobox = () => {
+  return (
+    <>
+      <input type="checkbox" /> <span>checkbox above</span>
+    </>
+  );
 };
