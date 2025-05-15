@@ -9,7 +9,7 @@ function App() {
       <div>main changes</div>
       <div>second change</div>
       <Button onClick={() => setCount((prevCount) => prevCount + 1)}>
-        increment btn
+        increment
       </Button>
       {count}
       <div>Next change</div>
