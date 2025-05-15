@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Button } from "./components/Button";
 import { Checkbox } from "./components/Checkbox";
+import { Combobox } from "./components/Combobox";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -19,6 +20,7 @@ function App() {
       <button>Click here </button>
       <div>this is a new div</div>
       <section>this is a section</section>
+      <Combobox />
     </div>
   );
 }
