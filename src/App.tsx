@@ -12,7 +12,7 @@ function App() {
         increment
       </Button>
       {count}
-      <div>New change</div>
+      <div>Next change</div>
     </div>
   );
 }
