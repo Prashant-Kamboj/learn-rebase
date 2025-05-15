@@ -1,7 +1,7 @@
 export const Combobox = () => {
   return (
-    <>
-      <input type="checkbox" /> <span>checkbox above</span>
-    </>
+    <select>
+      <option>1</option>
+    </select>
   );
 };
