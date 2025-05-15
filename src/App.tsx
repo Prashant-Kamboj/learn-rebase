@@ -17,6 +17,8 @@ function App() {
       <Checkbox />
       <div>sub branch change</div>
       <button>Click here </button>
+      <div>this is a new div</div>
+      <section>this is a section</section>
     </div>
   );
 }
