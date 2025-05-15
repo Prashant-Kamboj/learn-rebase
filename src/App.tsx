@@ -19,7 +19,6 @@ function App() {
       <button>Click here </button>
       <span>this is the new button update</span>
       <div>New change</div>
-      <div>bug fix branch change</div>
     </div>
   );
 }
