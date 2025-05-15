@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div>
-      <div>main change</div>
+      <div>main changes</div>
       <Button onClick={() => setCount((prevCount) => prevCount + 1)}>
         increment
       </Button>
